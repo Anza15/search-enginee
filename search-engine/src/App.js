@@ -1,5 +1,6 @@
 import logo from './logo.svg';
 import Weather from './Weather';
+import axios from 'axios';
 import './App.css';
 
 
@@ -20,7 +21,7 @@ export default function App() {
           <a href="#" target="_blank"
           rel="noopener noreferrer">
             open-source on Github
-            
+
             and {""}
             <a
             href="#"
