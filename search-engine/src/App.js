@@ -18,7 +18,7 @@ export default function App() {
             Anza Mukhithi
           </a>{""}
           and is {""}
-          <a href="#" target="_blank"
+          <a href="https://github/Anza15/search-enginee" target="_blank"
           rel="noopener noreferrer">
             open-source on Github
 
