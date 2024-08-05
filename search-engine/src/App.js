@@ -2,6 +2,8 @@ import logo from './logo.svg';
 import Weather from './Weather';
 import axios from 'axios';
 import './App.css';
+import WeatherForecast from './WeatherForecast';
+import WeatherForecastt from './WeatherForecastt';
 
 
 export default function App() {
@@ -11,6 +13,7 @@ export default function App() {
       
        <h1>Weather App</h1>
        <Weather defaultCity="Pretoria"/>
+      
           <footer>
             This project was coded by {""}
             <a href="#" target="_blank"
