@@ -21,13 +21,13 @@ export default function App() {
             Anza Mukhithi
           </a>{""}
           and is {""}
-          <a href="https://github/Anza15/search-enginee" target="_blank"
+          <a href="https://github/Anza15/search-engine" target="_blank"
           rel="noopener noreferrer">
             open-source on Github
 
             and {""}
             <a
-            href="https://comforting-kelpie-221e18.netlify.app/"
+            href="https://whimsical-croquembouche-ab7330.netlify.app/"
             target="_blank"
             rel="noopener noreferrer"
           >
